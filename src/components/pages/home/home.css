@@ -1,0 +1,21 @@
+.home-tittle{
+    font-size: 5rem;
+    text-align: center;
+    margin-bottom: 10rem;
+    margin-top: 2rem;
+}
+
+.link-to-characters{
+    text-decoration: none;
+    font-size: 3rem;
+    color:brown;
+    display: block;
+    text-align: center;
+    line-height: 30vh;
+    transition: all 0.3s;
+}
+
+.link-to-characters:hover{
+    cursor: pointer;
+    font-size: 3.5rem;
+}
